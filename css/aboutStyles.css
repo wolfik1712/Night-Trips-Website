@@ -1,0 +1,97 @@
+.about {
+	position: relative;
+	background-image: url(../img/background.png);
+	height: 100%;
+}
+.aboutBack {
+	display: flex;
+	align-items: center;
+}
+.usText {
+	display: flex;
+	margin-left: 20%;
+	flex-direction: column;
+	width: 321px;
+	height: 270px;
+	padding-bottom: 30%;
+}
+.usText h3 {
+	margin-top: 50px;
+	font-family: Noe Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 110%;
+	text-align: center;
+	letter-spacing: -0.02em;
+	color: #ffffff;
+}
+.usText p {
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18px;
+	line-height: 150%;
+	/* or 27px */
+	white-space: pre-line;
+	letter-spacing: -0.02em;
+
+	color: #ffffff;
+}
+.peopleAll {
+	margin-right: 40%;
+}
+.imgpeopleFirst {
+	display: flex;
+	align-content: flex-start;
+	padding-left: 50px;
+}
+.imgpeopleTwo {
+	display: flex;
+	align-content: flex-start;
+	padding-left: 50px;
+}
+.usText button {
+	background: #00c9e0;
+	box-shadow: 5px 15px 40px rgba(0, 201, 224, 0.2);
+	border-radius: 83px;
+	width: 321px;
+	height: 165px;
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 14px;
+	line-height: 190%;
+	/* identical to box height, or 27px */
+
+	letter-spacing: 0.15em;
+
+	color: #ffffff;
+}
+.saySeo {
+	position: absolute;
+	display: flex;
+	bottom: 54%;
+	left: 37%;
+	text-align: center;
+	justify-content: center;
+	width: 186px;
+	height: 75px;
+	background: #ffffff;
+	box-shadow: 5px 15px 40px rgba(0, 201, 224, 0.2);
+	border-radius: 8px;
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 15px;
+	line-height: 150%;
+	/* identical to box height, or 22px */
+	letter-spacing: 0.05em;
+	color: #000000;
+}
+.dots {
+	position: absolute;
+}
+.paddle {
+	height: 150px;
+}

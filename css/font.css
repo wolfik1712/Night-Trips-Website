@@ -1,0 +1,60 @@
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-MediumItalic.eot");
+	src: local("Larsseit Medium Italic"), local("Larsseit-MediumItalic"),
+		url("Larsseit-MediumItalic.eot?#iefix") format("embedded-opentype"),
+		url("Larsseit-MediumItalic.woff2") format("woff2"), url("Larsseit-MediumItalic.woff") format("woff"),
+		url("Larsseit-MediumItalic.ttf") format("truetype");
+	font-weight: 500;
+	font-style: italic;
+}
+@font-face {
+    font-family: "Playfair Display";
+    font-weight: 700;
+    src: url(../fonts/NoeDisplay-Bold.woff2);
+}
+@font-face {
+    font-family: "Noe Display";
+    font-weight: 700;
+    src: url(../fonts/NoeDisplay-Bold.woff2);
+}
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-Thin.eot");
+	src: local("Larsseit Thin"), local("Larsseit-Thin"), url("Larsseit-Thin.eot?#iefix") format("embedded-opentype"),
+		url("Larsseit-Thin.woff2") format("woff2"), url("Larsseit-Thin.woff") format("woff"),
+		url("Larsseit-Thin.ttf") format("truetype");
+	font-weight: 100;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-LightItalic.eot");
+	src: local("Larsseit Light Italic"), local("Larsseit-LightItalic"),
+		url("Larsseit-LightItalic.eot?#iefix") format("embedded-opentype"),
+		url("Larsseit-LightItalic.woff2") format("woff2"), url("Larsseit-LightItalic.woff") format("woff"),
+		url("Larsseit-LightItalic.ttf") format("truetype");
+	font-weight: 300;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit.eot");
+	src: local("Larsseit"), url("Larsseit.eot?#iefix") format("embedded-opentype"), url("Larsseit.woff2") format("woff2"),
+		url("Larsseit.woff") format("woff"), url("Larsseit.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: "Larsseit";
+	src: url("Larsseit-ExtraBold.eot");
+	src: local("Larsseit ExtraBold"), local("Larsseit-ExtraBold"),
+		url("Larsseit-ExtraBold.eot?#iefix") format("embedded-opentype"), url("Larsseit-ExtraBold.woff2") format("woff2"),
+		url("Larsseit-ExtraBold.woff") format("woff"), url("Larsseit-ExtraBold.ttf") format("truetype");
+	font-weight: 800;
+	font-style: normal;
+	font-weight: bold;
+}

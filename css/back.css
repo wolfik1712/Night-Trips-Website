@@ -1,0 +1,25 @@
+.pickback {
+	display: flex;
+	align-items: flex-start;
+	width: 107px;
+	height: 101px;
+	z-index: 0;
+	background: #be41ea;
+	opacity: 0.11;
+	filter: blur(250px);
+}
+.firstLites {
+	position: absolute;
+	display: flex;
+	top: 130%;
+}
+.twoLites {
+	position: absolute;
+	display: flex;
+	right: 0;
+	top: 100%;
+}
+.threeLites {
+	position: absolute;
+	display: flex;
+	top: 130%;

@@ -1,0 +1,136 @@
+.page4 {
+	position: relative;
+	overflow: hidden;
+	width: 1880px;
+	height: 1548px;
+	background-image: url(../img/back/background2.png);
+}
+.thoughts {
+	margin-left: 210px;
+	position: absolute;
+	display: flex;
+	align-items: left;
+	padding-left: 10%;
+	padding-right: 10%;
+	padding-bottom: 10%;
+	flex-wrap: wrap;
+	flex-direction: column;
+	border-radius: 8px;
+	background-color: #011627;
+	margin-right: 70px;
+}
+.thoughts h3 {
+	font-family: Noe Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	padding-left: 24%;
+	line-height: 110%;
+	/* or 79px */
+	letter-spacing: -0.02em;
+	color: #ffffff;
+}
+.thoughts p {
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 190%;
+	/* or 34px */
+	padding-left: 29%;
+	color: #ffffff;
+	padding-bottom: 50px;
+}
+.rowThOne {
+	display: flex;
+	justify-content: center;
+	padding-right: 40%;
+}
+.roselessSay {
+	color: white;
+	padding: 15px;
+	width: 510px;
+	height: 504px;
+	background: #02223b;
+	box-shadow: 0px 20px 30px rgba(0, 201, 224, 0.03);
+	margin-left: 20px;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.devka {
+	padding-left: 40px;
+}
+.roselessSay p {
+	display: flex;
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	line-height: 190%;
+	color: #ffffff;
+	margin-top: -25px;
+	margin-left: -40px;
+}
+.roselessSay h6 {
+	position: absolute;
+	display: flex;
+	padding-left: 12%;
+	margin-top: -70px;
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 170%;
+	/* or 20px */
+
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.15em;
+	text-transform: uppercase;
+
+	color: #ffffff;
+	font-size: 12px;
+	width: 250px;
+	height: 40px;
+	line-height: 190%;
+	color: #ffffff;
+}
+.roselessSay img {
+	padding-top: 10%;
+	padding-left: 10%;
+}
+.rowThTwo {
+	display: flex;
+	padding-right: 40%;
+}
+.page5 {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 70px;
+}
+.page5 h3 {
+	font-family: Noe Display;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 72px;
+	line-height: 110%;
+	/* or 79px */
+
+	text-align: center;
+	letter-spacing: -0.02em;
+
+	color: #ffffff;
+}
+.page5 p {
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 150%;
+	text-align: center;
+	letter-spacing: 0.07em;
+	width: 350px;
+	height: 62px;
+	color: #ffffff;
+}

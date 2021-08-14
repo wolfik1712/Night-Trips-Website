@@ -1,0 +1,76 @@
+.footermenu{
+    display: flex;
+    justify-content: space-evenly;
+	 align-self: center;
+}
+.footermenuhref ul{ 
+	font-family: Larsseit;
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 24px;
+/* identical to box height */
+
+text-transform: uppercase;
+
+color: #FFFFFF;
+}
+.footermenuhref a {
+	display: flex;
+    font-family: Larsseit;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 24px;s
+/* identical to box height */
+text-transform: uppercase;
+padding-bottom: 15px;
+color: #FFFFFF;
+text-decoration: none;
+}
+.footermenuhref li{
+    font-family: Larsseit;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 19px;
+    padding-bottom: 20px;
+    color: #FFFFFF;
+	 list-style-type: none;
+}
+.menuFirst a{
+	display: flex;
+	margin-left: -40px;
+	justify-content: flex-start;
+	font-family: Larsseit;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 18px;
+	line-height: 24px;
+	/* identical to box height */
+	text-transform: uppercase;
+	color: #FFFFFF;
+}
+.copyright h6{
+	font-family: Larsseit;
+font-style: normal;
+font-weight: normal;
+font-size: 15px;
+line-height: 25px;
+/* identical to box height, or 167% */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.footerNT a{
+	display: flex;
+	justify-content: center;
+	font-family: Playfair Display;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 190%;
+color: #FFFFFF;
+text-decoration: none;
+}
