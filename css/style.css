@@ -242,10 +242,12 @@ body {
 }
 .page3 {
 	position: relative;
+	overflow: hidden;
 	display: flex;
 	justify-content: space-around;
 	align-self: center;
 	padding-left: 10%;
+	padding-bottom: 150px;
 }
 .imgChill {
 	display: flex;
@@ -309,7 +311,7 @@ body {
 	display: inline-block;
 	justify-content: space-around;
 	align-items: center;
-	bottom: 20px;
+	bottom: 50px;
 	right: 100px;
 }
 .sharesoc p {

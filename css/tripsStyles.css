@@ -27,23 +27,19 @@
 	display: flex;
 	width: 230px;
 	height: 290px;
-	bottom: -100px;
+	bottom: 80px;
 	left: 210px;
 	z-index: 0;
 }
 .ustext {
 	width: 321px;
 	height: 270px;
-
 	font-family: Larsseit;
 	font-style: normal;
 	font-weight: bold;
 	font-size: 18px;
 	line-height: 150%;
-	/* or 27px */
-
 	letter-spacing: -0.02em;
-
 	color: #ffffff;
 }
 .imgbut {
