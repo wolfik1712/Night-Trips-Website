@@ -147,6 +147,7 @@ body {
 	display: inline-flex;
 	justify-content: flex-start;
 	flex-direction: row;
+	padding-left: 19%;
 }
 .pick h3 {
 	padding-left: 40px;
